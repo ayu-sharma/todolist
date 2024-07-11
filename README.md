@@ -1,4 +1,4 @@
-### Population Explorer
+### To Do List
 This Todo List App is a simple web application built with React and Material-UI, allowing users to manage their tasks effectively. It provides features such as adding, editing, deleting, and marking tasks as completed. The app utilizes local storage for persistent data storage, ensuring user data is retained even after page refresh.
 
 
